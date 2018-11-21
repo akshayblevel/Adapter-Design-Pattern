@@ -1,0 +1,11 @@
+D:\Mansi\RND\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe
+D:\Mansi\RND\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.pdb
+D:\Mansi\RND\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
+D:\Mansi\RND\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.exe
+D:\Mansi\RND\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.pdb
+D:\AKKI_DEV\RND\DP\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe
+D:\AKKI_DEV\RND\DP\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.pdb
+D:\AKKI_DEV\RND\DP\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\DP\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.exe
+D:\AKKI_DEV\RND\DP\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.pdb
+D:\AKKI_DEV\RND\DP\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
